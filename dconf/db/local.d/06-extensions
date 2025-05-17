@@ -69,17 +69,6 @@ window-preview-title-position='TOP'
 [org/gnome/shell/extensions/user-theme]
 name='MaterialYou'
 
-[org/gnome/shell/extensions/material-you-colors]
-accent-color='4282549748'
-arcmenu-theming=true
-enable-accent-colors=false
-enable-pywal-theming=true
-extra-command='bash ~/.config/securonis/after_wp_change.sh &'
-resize-height=200
-resize-width=200
-scheme='Default'
-python-backend=true
-
 [org/fedorahosted/background-logo-extension]
 logo-always-visible=true
 logo-border=uint32 46

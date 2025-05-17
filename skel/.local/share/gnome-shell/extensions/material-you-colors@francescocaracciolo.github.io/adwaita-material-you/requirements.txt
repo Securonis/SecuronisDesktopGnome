@@ -1,8 +1,0 @@
-rich
-pillow
-pygobject
-material
-pydantic
-regex
-numpy
-materialyoucolor
