@@ -3,6 +3,7 @@ enabled-extensions=['blur-my-shell@aunetx', 'dash-to-dock@micxgx.gmail.com', 'gs
 disabled-extensions=['compiz-windows-effect@hermes83.github.com', 'desktop-cube@schneegans.github.com', 'dash-to-panel@jderose9.github.com', 'arcmenu@arcmenu.com', 'trayIconsReloaded@selfmade.pl', 'ding@rastersoft.com']
 disable-extension-version-validation=true
 disable-user-extensions=false
+favorite-apps=['firefox.desktop', 'org.gnome.Nautilus.desktop', 'seconionis.desktop', 'securonis-dnscrypt.desktop', 'system-manager.desktop', 'pxrtalcrypt.desktop']
 
 [org/gnome/shell/extensions/blur-my-shell/panel]
 force-light-text=true
@@ -93,10 +94,17 @@ button-layout='appmenu:minimize,close'
 [org/gnome/desktop/background]
 color-shading-type='solid'
 picture-options='zoom'
-picture-uri='/usr/share/backgrounds/privacy.png'
-picture-uri-dark='/usr/share/backgrounds/privacy.jpg'
+picture-uri='usr/share/backgrounds/privacy.png'
+picture-uri-dark='usr/share/backgrounds/privacy.jpg'
 primary-color='#000000000000'
 secondary-color='#000000000000'
+
+[org/gnome/desktop/interface]
+gtk-theme='Adwaita-dark'
+color-scheme='prefer-dark'
+
+[org/gnome/shell/extensions/user-theme]
+name='Adwaita-dark'
 
 [org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
 visible-name='Securonis Terminal'
