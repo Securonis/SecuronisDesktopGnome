@@ -94,8 +94,8 @@ button-layout='appmenu:minimize,close'
 [org/gnome/desktop/background]
 color-shading-type='solid'
 picture-options='zoom'
-picture-uri='usr/share/backgrounds/privacy.png'
-picture-uri-dark='usr/share/backgrounds/privacy.jpg'
+picture-uri='usr/share/backgrounds/default.png'
+picture-uri-dark='usr/share/backgrounds/default.png'
 primary-color='#000000000000'
 secondary-color='#000000000000'
 
