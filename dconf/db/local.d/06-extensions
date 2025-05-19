@@ -66,9 +66,6 @@ trans-use-dynamic-opacity=true
 tray-padding=-1
 window-preview-title-position='TOP'
 
-[org/gnome/shell/extensions/user-theme]
-name='MaterialYou'
-
 [org/fedorahosted/background-logo-extension]
 logo-always-visible=true
 logo-border=uint32 46
