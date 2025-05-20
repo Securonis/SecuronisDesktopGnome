@@ -102,6 +102,7 @@ picture-uri='usr/share/backgrounds/default.png'
 picture-uri-dark='usr/share/backgrounds/default.png'
 primary-color='#000000000000'
 secondary-color='#000000000000'
+
 [org/gnome/shell/extensions/user-theme]
 name='Adwaita-dark'
 
